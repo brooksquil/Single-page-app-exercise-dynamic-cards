@@ -1,0 +1,19 @@
+/* `<div id="cards">
+    <h3 id="userToDo">${userInput}</h3>
+    </div>` */
+
+body {
+    background-color: #32425b;
+    color: blanchedalmond;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#cards {
+    height: 0 auto;
+    width: 150px;
+    border: 2px solid blanchedalmond;
+    border-radius: 60%;
+    text-align: center;
+    box-shadow: inset 0 0 1em blanchedalmond, 0 0 1em black;
+    margin: 8px;
+}
